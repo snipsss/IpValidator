@@ -1,0 +1,5 @@
+﻿  Run.cpp
+C:\Users\acer\source\repos\TaskAlex\TaskAlex\ValidatorIp.h(16,22): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\acer\source\repos\TaskAlex\TaskAlex\ValidatorIp.h(51,29): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\acer\source\repos\TaskAlex\TaskAlex\ValidatorIp.h(50,9): warning C4101: 'i': unreferenced local variable
+C:\Users\acer\source\repos\TaskAlex\TaskAlex\ValidatorIp.h(50,12): warning C4101: 'num': unreferenced local variable
